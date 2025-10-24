@@ -56,10 +56,8 @@ npm run dev
 # Run tests
 npm run test
 
-عالیه سروش! 🎉
-الان که پروژه‌ی react-testing-demo هم روی GitHub و هم روی Vercel دیپلوی شده، این هم یه README.md حرفه‌ای و کامل برایش — آماده برای استفاده در ریپازیتوری GitHub و رزومه‌ات ✅
 
-📄 README.md
+
 # 🧪 React Testing Demo – Vitest + Testing Library
 
 A focused React + TypeScript project built with **Vitest** and **Testing Library**, designed to practice writing unit and component tests for real-world UI components.
